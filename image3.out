@@ -1,0 +1,31 @@
+scanning pixel data for a new image..... 
+ processing pixel 0	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 1	178   0 255 (OTHER)	Concatenated to [327].	This is a safe pixel
+ processing pixel 2	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 3	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 4	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 5	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 6	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 7	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 8	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 9	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 10	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 11	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is not a safe pixel
+
+------------- display database --------------- 
+[0]: concatenated by 000***** 000***** 000***** (e.g., BLACK, which has r,g,b value 00000000 00000000 00000000)
+probability that this color represents safe region is (0/4) * (4/12) / (3/12) --> 0.000 * 0.333 / 0.250 = 0.000 
+
+[56]: concatenated by 000***** 111***** 000***** (e.g., GREEN, which has r,g,b value 00000000 11111111 00000000)
+probability that this color represents safe region is (0/4) * (4/12) / (1/12) --> 0.000 * 0.333 / 0.083 = 0.000 
+
+[327]: OTHER
+probability that this color represents safe region is (1/4) * (4/12) / (1/12) --> 0.250 * 0.333 / 0.083 = 1.000 
+
+[448]: concatenated by 111***** 000***** 000***** (e.g., RED, which has r,g,b value 11111111 00000000 00000000)
+probability that this color represents safe region is (3/4) * (4/12) / (3/12) --> 0.750 * 0.333 / 0.250 = 1.000 
+
+[511]: concatenated by 111***** 111***** 111***** (e.g., WHITE, which has r,g,b value 11111111 11111111 11111111)
+probability that this color represents safe region is (0/4) * (4/12) / (4/12) --> 0.000 * 0.333 / 0.333 = 0.000 
+
+Totally 5 colors are stored in database

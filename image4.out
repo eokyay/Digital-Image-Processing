@@ -1,0 +1,428 @@
+scanning pixel data for a new image..... 
+ processing pixel 0	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 1	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 2	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 3	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 4	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 5	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 6	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 7	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 8	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 9	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 10	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 11	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 12	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 13	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 14	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 15	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 16	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 17	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 18	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 19	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 20	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 21	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 22	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 23	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 24	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 25	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 26	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 27	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 28	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 29	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 30	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 31	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 32	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 33	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 34	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 35	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 36	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 37	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 38	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 39	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 40	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 41	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 42	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 43	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 44	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 45	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 46	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 47	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 48	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 49	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 50	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 51	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 52	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 53	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 54	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 55	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 56	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 57	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 58	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 59	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 60	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 61	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 62	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 63	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 64	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 65	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 66	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 67	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 68	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 69	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 70	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 71	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 72	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 73	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 74	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 75	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 76	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 77	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 78	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 79	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 80	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 81	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 82	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 83	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 84	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 85	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 86	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 87	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 88	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 89	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 90	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 91	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 92	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 93	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 94	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 95	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 96	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 97	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 98	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 99	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 100	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 101	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 102	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 103	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 104	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 105	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 106	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 107	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 108	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 109	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 110	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 111	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 112	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 113	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 114	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 115	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 116	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 117	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 118	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 119	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 120	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 121	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 122	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 123	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 124	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 125	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 126	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 127	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 128	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 129	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 130	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 131	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 132	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 133	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 134	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 135	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 136	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 137	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 138	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 139	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 140	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 141	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 142	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 143	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 144	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 145	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 146	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 147	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 148	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 149	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 150	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 151	128 128 128 (10000000 10000000 10000000 GRAY)	Concatenated to [292].	This is a safe pixel
+ processing pixel 152	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 153	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 154	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 155	255 255   0 (11111111 11111111 00000000 YELLOW)	Concatenated to [504].	This is a safe pixel
+ processing pixel 156	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 157	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 158	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 159	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 160	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 161	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 162	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 163	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 164	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 165	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 166	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 167	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 168	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 169	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 170	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 171	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 172	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 173	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 174	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 175	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 176	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 177	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 178	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 179	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 180	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 181	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 182	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 183	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 184	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 185	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 186	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 187	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 188	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 189	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 190	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 191	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 192	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 193	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 194	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 195	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 196	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 197	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 198	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 199	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 200	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 201	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 202	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 203	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 204	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 205	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 206	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 207	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 208	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 209	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 210	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 211	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 212	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 213	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 214	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 215	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 216	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 217	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 218	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 219	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 220	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 221	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 222	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 223	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 224	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 225	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 226	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 227	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is a safe pixel
+ processing pixel 228	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 229	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 230	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 231	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 232	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 233	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 234	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 235	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 236	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 237	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 238	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 239	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 240	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 241	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 242	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 243	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 244	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 245	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 246	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 247	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 248	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 249	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 250	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 251	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 252	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 253	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 254	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 255	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 256	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 257	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 258	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 259	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 260	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 261	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 262	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 263	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 264	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 265	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 266	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 267	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 268	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 269	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 270	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 271	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 272	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 273	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 274	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 275	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 276	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 277	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 278	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 279	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 280	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 281	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 282	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 283	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 284	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 285	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 286	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 287	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 288	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 289	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 290	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 291	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 292	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 293	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 294	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 295	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 296	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 297	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 298	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 299	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 300	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 301	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 302	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 303	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 304	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 305	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 306	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 307	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 308	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 309	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 310	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 311	255   0   0 (11111111 00000000 00000000 RED)	Concatenated to [448].	This is a safe pixel
+ processing pixel 312	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 313	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 314	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 315	  0 255 255 (00000000 11111111 11111111 CYAN)	Concatenated to [63].	This is a safe pixel
+ processing pixel 316	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 317	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 318	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 319	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 320	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 321	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 322	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 323	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 324	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 325	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 326	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 327	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 328	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 329	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 330	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 331	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 332	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 333	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 334	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 335	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 336	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 337	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 338	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 339	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 340	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 341	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 342	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 343	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 344	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 345	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 346	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 347	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 348	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 349	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 350	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 351	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 352	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 353	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 354	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 355	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 356	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 357	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 358	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 359	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 360	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 361	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 362	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 363	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 364	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 365	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 366	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 367	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 368	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 369	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 370	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 371	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 372	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 373	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 374	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 375	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 376	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 377	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 378	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 379	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 380	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 381	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 382	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 383	255 255 255 (11111111 11111111 11111111 WHITE)	Concatenated to [511].	This is not a safe pixel
+ processing pixel 384	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 385	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 386	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 387	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is a safe pixel
+ processing pixel 388	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 389	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 390	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 391	  0 255   0 (00000000 11111111 00000000 GREEN)	Concatenated to [56].	This is a safe pixel
+ processing pixel 392	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 393	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 394	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 395	  0   0 255 (00000000 00000000 11111111 BLUE)	Concatenated to [7].	This is a safe pixel
+ processing pixel 396	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 397	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 398	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+ processing pixel 399	  0   0   0 (00000000 00000000 00000000 BLACK)	Concatenated to [0].	This is not a safe pixel
+
+------------- display database --------------- 
+[0]: concatenated by 000***** 000***** 000***** (e.g., BLACK, which has r,g,b value 00000000 00000000 00000000)
+probability that this color represents safe region is (64/240) * (240/400) / (160/400) --> 0.267 * 0.600 / 0.400 = 0.400 
+
+[7]: concatenated by 000***** 000***** 111***** (e.g., BLUE, which has r,g,b value 00000000 00000000 11111111)
+probability that this color represents safe region is (32/240) * (240/400) / (32/400) --> 0.133 * 0.600 / 0.080 = 1.000 
+
+[56]: concatenated by 000***** 111***** 000***** (e.g., GREEN, which has r,g,b value 00000000 11111111 00000000)
+probability that this color represents safe region is (16/240) * (240/400) / (16/400) --> 0.067 * 0.600 / 0.040 = 1.000 
+
+[63]: concatenated by 000***** 111***** 111***** (e.g., CYAN, which has r,g,b value 00000000 11111111 11111111)
+probability that this color represents safe region is (16/240) * (240/400) / (16/400) --> 0.067 * 0.600 / 0.040 = 1.000 
+
+[292]: concatenated by 100***** 100***** 100***** (e.g., GRAY, which has r,g,b value 10000000 10000000 10000000)
+probability that this color represents safe region is (32/240) * (240/400) / (32/400) --> 0.133 * 0.600 / 0.080 = 1.000 
+
+[448]: concatenated by 111***** 000***** 000***** (e.g., RED, which has r,g,b value 11111111 00000000 00000000)
+probability that this color represents safe region is (48/240) * (240/400) / (48/400) --> 0.200 * 0.600 / 0.120 = 1.000 
+
+[504]: concatenated by 111***** 111***** 000***** (e.g., YELLOW, which has r,g,b value 11111111 11111111 00000000)
+probability that this color represents safe region is (16/240) * (240/400) / (16/400) --> 0.067 * 0.600 / 0.040 = 1.000 
+
+[511]: concatenated by 111***** 111***** 111***** (e.g., WHITE, which has r,g,b value 11111111 11111111 11111111)
+probability that this color represents safe region is (16/240) * (240/400) / (80/400) --> 0.067 * 0.600 / 0.200 = 0.200 
+
+Totally 8 colors are stored in database
